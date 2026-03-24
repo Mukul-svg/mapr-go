@@ -1,4 +1,4 @@
-# mapreduce-go
+# mapr-go
 
 A complete implementation of the [Google MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf) framework in Go. Pure net/rpc, no frameworks, no shortcuts.
 
